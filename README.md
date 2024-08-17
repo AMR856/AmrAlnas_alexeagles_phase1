@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="./images/Team Logo.png" />
+  <img src="./Images/Team_Logo.png" />
 </p>
 
 # Task 1 Electroincs
-
 
 ## Part One
 - [`MOSFET Report`](./Electroincs/MOSFET/MOSFET.pdf)
@@ -15,4 +14,4 @@
 - [`NPN BJT Overvoltage Protection`](./Electroincs/Overvoltage/NPN/)
 - [`PNP BJT Overvoltage Protection`](./Electroincs/Overvoltage/PNP/)
 
-### You have to change branches to see the files
+### Change branches to see the files
