@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/Team Logo.png" />
+  <img src="./images/Team_Logo.png" />
 </p>
 
 # Task 1 Electroincs
@@ -13,3 +13,5 @@
 
 - [`NPN BJT Overvoltage Protection`](./Electroincs/Overvoltage/NPN/)
 - [`PNP BJT Overvoltage Protection`](./Electroincs/Overvoltage/PNP/)
+
+### Change branches to see the files
