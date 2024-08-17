@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="./images/362950444_773149307939637_1127387418494108291_n.jpg" />
+  <img src="./images/Team Logo.jpg" />
 </p>
 
 # Task 1 Electroincs
