@@ -14,5 +14,6 @@
 - [`NPN BJT Overvoltage Protection`](./Electroincs/Overvoltage/NPN%20Proteus/)
 - [`NPN BJT Overvoltage Protection Report`](./Electroincs/Overvoltage/NPN%20Proteus/NPN%20Overvoltage.pdf)
 - [`PNP BJT Overvoltage Protection`](./Electroincs/Overvoltage/PNP/)
+- [`PNP BJT Overvoltage Protection Report`](./Electroincs/Overvoltage/PNP/PNP%20Overvoltage.pdf)
 
 ### Change branches to see the files
