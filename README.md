@@ -17,3 +17,9 @@
 - [`PNP BJT Overvoltage Protection Report`](./Electroincs/Overvoltage/PNP/PNP%20Overvoltage.pdf)
 
 ### Change branches to see the files
+
+# Task 3 Image Processing
+
+## Part two
+
+### [Gear Detection System](./image_processing/gear_detection_system.py)
