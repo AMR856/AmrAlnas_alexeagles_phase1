@@ -28,4 +28,4 @@
 
 ## Part two
 
-### [Gear Detection System](./image_processing/gear_detection_system.py)
+### [Gear Detection System](./image_processing/Gear%20Detection%20System/gear_detection_system.py)
