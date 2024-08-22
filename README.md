@@ -22,9 +22,9 @@
 
 ## Part One
 
-### [Sobel Opearator](./image_processing/Reports/Sobel%20Filter/Sobel%20Filter.pdf)
-### [Laplacian Opearator](./image_processing/Reports/Laplacian%20Filter/Laplacian%20Filter.pdf)
-### [Canny Edge Detector](./image_processing/Reports/Canny%20Edge/Canny%20Edge.pdf)
+- [`Sobel Opearator`](./image_processing/Reports/Sobel%20Filter/Sobel%20Filter.pdf)
+- [`Laplacian Opearator`](./image_processing/Reports/Laplacian%20Filter/Laplacian%20Filter.pdf)
+- [`Canny Edge Detector`](./image_processing/Reports/Canny%20Edge/Canny%20Edge.pdf)
 
 ## Part two
 
