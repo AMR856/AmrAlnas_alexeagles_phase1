@@ -29,3 +29,7 @@
 ## Part two
 
 ### [Gear Detection System](./image_processing/gear_detection_system.py)
+
+# Task 4 Machine Learning
+
+### [Color Classifier](./machine_learning/color_classifier.ipynb)
