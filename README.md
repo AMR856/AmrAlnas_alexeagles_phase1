@@ -39,7 +39,7 @@
 ## Part One
 
 - [`UDP`](./microcontrollers/Reports/UDP%20Protocol/UDP.pdf)
-- [`CAN](./microcontrollers/Reports/CAN%20Protocol/CAN.pdf)
+- [`CAN`](./microcontrollers/Reports/CAN%20Protocol/CAN.pdf)
 
 ## Part two
 
